@@ -1,0 +1,29 @@
+src-tauri/src/proxy/providers/mod.rs
+  s_cb8def38bdfb84::t_3985c8dde00be7 43,66-67
+src-tauri/src/proxy/providers/transform_codex_responses_tool_history.rs
+  s_cb8def38bdfb84::t_ff65c5a8c0c8ab 29,33,51-53
+  s_cb8def38bdfb84::t_3985c8dde00be7 1-28,30-32,34-50,54-241
+  s_cb8def38bdfb84::t_baee5da190edac 242-244
+src-tauri/src/proxy/providers/codex.rs
+  s_cb8def38bdfb84::t_3985c8dde00be7 87-108
+  s_cb8def38bdfb84::t_4ac33c87a501ee 1347-1369
+  s_cb8def38bdfb84::t_a3bd7f88f94090 1346
+src-tauri/src/proxy/forwarder.rs
+  s_cb8def38bdfb84::t_3985c8dde00be7 1983-2003
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d54138cbcc05cd67fcf5c019fb87986106f89a07",
+  "prompts": {},
+  "sessions": {
+    "s_cb8def38bdfb84": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17b24-70ab-74c2-a4ba-30a13c47f10a",
+        "model": "ccs-deepseek/deepseek-flash"
+      },
+      "human_author": "dltianzheng <67353289+dltianzheng@users.noreply.github.com>"
+    }
+  }
+}
