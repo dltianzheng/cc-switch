@@ -1,0 +1,22 @@
+src-tauri/src/proxy/forwarder.rs
+  s_cb8def38bdfb84::t_aec6d0c4f5341d 1996-1999,2001
+src-tauri/src/proxy/providers/transform_codex_responses_tool_history.rs
+  s_cb8def38bdfb84::t_e05c03ef3d103e 112-118
+  s_cb8def38bdfb84::t_aec6d0c4f5341d 5-7,18,88-111,119-162,320-403
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0b69086c4e3f8d96ce4a74bc27d58cd98f3cb5be",
+  "prompts": {},
+  "sessions": {
+    "s_cb8def38bdfb84": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17b24-70ab-74c2-a4ba-30a13c47f10a",
+        "model": "ccs-deepseek/deepseek-flash"
+      },
+      "human_author": "dltianzheng <67353289+dltianzheng@users.noreply.github.com>"
+    }
+  }
+}
